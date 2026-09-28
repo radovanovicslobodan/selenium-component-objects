@@ -37,3 +37,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# GitHub Copilot temporary or local data files
+.idea/copilot.data.migration.*.xml
